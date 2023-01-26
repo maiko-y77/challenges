@@ -96,4 +96,4 @@ function questionFinal(string) {
     return string.split("").reverse().join("");
 }
 
-let reverseString = reversedString("Maiko"));
+let reverseString = questionFinal("Maiko"));
