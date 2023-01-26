@@ -92,8 +92,8 @@ console.log(largest);
 /*Declare a function reverseString that takes a string as an argument and returns the string reversed. Test the function by calling it with the string "hello", 
 and store the result in a variable reversedString and print the variable.*/
 
-function reversedString(string) {
+function questionFinal(string) {
     return string.split("").reverse().join("");
 }
 
-console.log(reversedString("Maiko"));
+let reverseString = reversedString("Maiko"));
