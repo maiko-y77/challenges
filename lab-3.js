@@ -41,7 +41,7 @@ let result = numbers(4, 5);
 the name "John", and store the result in a variable greeting and print the variable.*/
 
 function greet(name) {
-    console.log(`Hello, ${name}`);
+    console.log(`Hello, [${name}]!`);
 }
 
 greet("Maiko");
